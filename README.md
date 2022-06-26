@@ -1,5 +1,5 @@
 # 이것이 취업을 위한 코딩테스트다 : 2022-06-26 ~
-<img src='./XL.jpg' width="200"/>
+<img src='./XL.jpg' width="400"/>
 
 <br><br>
 
