@@ -1,5 +1,5 @@
 # 이것이 취업을 위한 코딩테스트다 : 2022-06-26 ~
-<img src='http://image.yes24.com/goods/91433923/XL' width="200"/>
+<img src='' width="200"/>
 
 <br><br>
 
